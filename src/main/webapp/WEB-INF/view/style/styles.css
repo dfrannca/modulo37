@@ -1,0 +1,95 @@
+/* src/main/webapp/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+body {
+			font: normal 16px Arial, Verdana,serif;
+			text-align: justify;
+			background-color: rgb(19, 242, 232)
+		}
+.container {
+            width: 80%;
+            margin: 0 auto; /* Centraliza o container */
+            background-color: #f0f0f0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+/* /nav {
+//            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+*/
+
+nav {
+            background-color: #333;
+            padding: 10px;
+            display: flex;
+ /*           flex-direction: column;*/
+/*            align-items: center;*/
+                        text-align: center;
+
+        }
+
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+h1 {
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 20px;
+			font-style: normal;
+			font-variant: small-caps;
+			color: blue;
+		}
+
+		h2 {
+			font-family: Arial Arial, Helvetica, sans-serif;
+			font-size: 20px;
+			font-style: normal;
+			font-variant: small-caps;
+			color: blue;
+		}
+
+		h3 {
+			font-family: Arial Arial, Helvetica, sans-serif;
+			font-size: 20px;
+			font-style: normal;
+			font-variant: small-caps;
+			color: red;
+		}
+
+		h4 {
+			font-family: Arial Arial, Helvetica, sans-serif;
+			font-size: 20px;
+			font-style: normal;
+			font-variant: small-caps;
+			color: blue;
+		}
+
+
+		a {
+			font-family: Arial Arial, Helvetica, sans-serif;
+			font-size: 20px;
+			font-style: normal;
+			color: rgb(18, 17, 17);
+		}
+
